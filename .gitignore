@@ -1,0 +1,5 @@
+myenv/
+__pycache__/
+*.pyc
+*.pkl        # only if you want to avoid committing model file (else keep it)
+.env
